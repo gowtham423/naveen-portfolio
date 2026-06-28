@@ -1,0 +1,27 @@
+{
+  "name": "naveen-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Naveen Kumar A - Full Stack Developer",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowtham423/naveen-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web-development",
+    "vercel"
+  ],
+  "author": "Naveen Kumar A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gowtham423/naveen-portfolio/issues"
+  },
+  "homepage": "https://github.com/gowtham423/naveen-portfolio#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
